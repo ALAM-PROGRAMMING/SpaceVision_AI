@@ -1,0 +1,6 @@
+train: C:/Users/Muaz alam/Desktop/HACK- dataset/HackByte_Dataset/data/train/images
+val: C:/Users/Muaz alam/Desktop/HACK- dataset/HackByte_Dataset/data/val/images
+test: C:/Users/Muaz alam/Desktop/HACK- dataset/HackByte_Dataset/data/test/images
+
+nc: 3
+names: ['FireExtinguisher', 'ToolBox', 'OxygenTank']
