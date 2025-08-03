@@ -1,0 +1,13 @@
+ultralytics==8.1.15
+opencv-python ( planned for future use )
+numpy
+matplotlib
+Pillow
+torch>=1.9.0
+torchvision>=0.10.0
+tqdm
+pyyaml
+seaborn
+
+# Optional - if useing Streamlit for UI/demo
+streamlit
